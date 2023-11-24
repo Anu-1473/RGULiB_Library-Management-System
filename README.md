@@ -10,3 +10,7 @@ How to run the Code?
    ->npm run dev                // in frontend terminal
    ->npm start                  // in backend(Server) terminal
 5. You can See website running in localhost:5173
+Done by
+   Anusha Uppu
+   Srinkanth Devandla
+   Jaya kishore Boya
